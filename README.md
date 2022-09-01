@@ -49,7 +49,7 @@ fields_of_interests:
     "Android Development",
     "UI/UX"
   ]
-currently_learning: ["Nuxt.JS and React.JS"
+currently_learning: ["Nuxt.JS and React.JS"]
 ```
 
 ### User Of
