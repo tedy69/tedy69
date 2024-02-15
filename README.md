@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/mochammad-tedy-fazrin/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin" />
   </a>
-  <a href="https://www.instagram.com/tedyfazrin_/" target="_blank">
+  <a href="https://www.instagram.com/tedycoding/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
    </a>
   <a href="https://www.tedyfazrin.com">
@@ -20,12 +20,13 @@
 
 ### My Skills
 
+[![Nextjs](https://img.shields.io/badge/Next-002E3B?style=for-the-badge&logo=nextdotjs&logoColor=#00DC82)](https://github.com/tedy69?tab=repositories&q=&type=&language=vue)
+[![React](https://img.shields.io/badge/react-%2335495e.svg?style=for-the-badge&logo=react&logoColor=lightblue)](https://github.com/tedy69?tab=repositories&q=&type=&language=vue)
 [![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)](https://github.com/tedy69?tab=repositories&q=&type=&language=vue)
 [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://github.com/tedy69?tab=repositories&q=&type=&language=vue)
 [![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)](https://github.com/tedy69?tab=repositories&q=&type=&language=vue)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/tedy69?tab=repositories&q=&type=&language=javascript)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/tedy69?tab=repositories&q=&type=&language=html5)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/tedy69?tab=repositories&q=&type=&language=css)
+[![Typescript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=blue)](https://github.com/tedy69?tab=repositories&q=&type=&language=javascript)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/tedy69?tab=repositories&q=&type=&language=javascript)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://github.com/tedy69?tab=repositories&q=&type=&language=java)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/tedy69?tab=repositories&q=&type=&language=sql)
@@ -49,7 +50,7 @@ fields_of_interests:
     "Android Development",
     "UI/UX"
   ]
-currently_learning: ["Nuxt.JS and React.JS"]
+currently_learning: ["NextJS"]
 ```
 
 ### User Of
