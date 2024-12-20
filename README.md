@@ -37,7 +37,7 @@
 
 ```yaml
 name: Mochammad Tedy Fazrin
-located_in: Tangerang, Indonesia
+located_in: Indonesia
 current_job: Front End Developer
 education:
   [
@@ -50,7 +50,7 @@ fields_of_interests:
     "Android Development",
     "UI/UX"
   ]
-currently_learning: ["NextJS"]
+currently_learning: ["Web3"]
 ```
 
 ### User Of
